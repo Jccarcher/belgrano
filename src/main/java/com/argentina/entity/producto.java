@@ -2,7 +2,7 @@ package com.argentina.entity;
 
 import java.sql.Date;
 
-public class producto {
+public class Producto {
 
 	Integer id;
 	String marca;

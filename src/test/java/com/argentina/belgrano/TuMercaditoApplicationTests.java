@@ -12,7 +12,7 @@ class TuMercaditoApplicationTests {
 	void contextLoads() {
 		
 		DBConnection conn = new DBConnection();
-		conn.getConnection();
+		conn.getCon();
 		System.out.println(conn);
 		
 	}

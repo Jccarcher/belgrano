@@ -1,6 +1,6 @@
 package com.argentina.entity;
 
-public class mercado {
+public class Mercado {
 
 	Integer id;
 	String nombre;
